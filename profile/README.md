@@ -1,11 +1,11 @@
 <div align="center">
-<h1>CardLink</h1>
-    CardLink is entirely free and fully open-source. 🚀
+<h1>AddComtact</h1>
+    AddComtact is entirely free and fully open-source. 🚀
 </div>
 
 ### About
 
-CardLink is an application aimed at modernizing the sharing of business cards within a company. It displays digital
+AddComtact is an application aimed at modernizing the sharing of business cards within a company. It displays digital
 business
 cards in a web browser, accessible via NFC tags, QR-codes, or direct URLs.
 
