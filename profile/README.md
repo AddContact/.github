@@ -1,19 +1,19 @@
 <div align="center">
-<h1>CardMesh</h1>
-    CardMesh is entirely free and fully open-source. 🚀
+<h1>CardLink</h1>
+    CardLink is entirely free and fully open-source. 🚀
 </div>
 
 ### About
 
-CardMesh is an application aimed at modernizing the sharing of business cards within a company. It displays digital
+CardLink is an application aimed at modernizing the sharing of business cards within a company. It displays digital
 business
 cards in a web browser, accessible via NFC tags, QR-codes, or direct URLs.
 
 The application is composed of a SvelteKit frontend and an Express REST API backend. To run the application, you need to
 install both the web application and the REST API. The utilized database is MongoDB.
 
-Web App: https://github.com/CardMesh/web-app  
-REST API: https://github.com/CardMesh/rest-api
+Web App: 
+REST API: 
 
 ![personal_dashboard](https://github.com/CardMesh/.github/blob/main/profile/img/personal_dashboard.png)  
 ![vcard](https://github.com/CardMesh/.github/blob/main/profile/img/vcard.png)  
